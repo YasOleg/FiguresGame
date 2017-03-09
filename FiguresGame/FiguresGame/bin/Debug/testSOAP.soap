@@ -1,0 +1,110 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:ClassProgramState id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/FiguresGame/FiguresGame%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<selectLengtch id="ref-3">en-GB</selectLengtch>
+<array href="#ref-4"/>
+</a1:ClassProgramState>
+<SOAP-ENC:Array id="ref-4" SOAP-ENC:arrayType="a1:figureSerialiaze[4]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/FiguresGame/FiguresGame%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+</SOAP-ENC:Array>
+<a1:figureSerialiaze id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/FiguresGame/FiguresGame%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name id="ref-10">Triangle</name>
+<x>682</x>
+<y>193</y>
+<n>38</n>
+<m>39</m>
+<dx>2</dx>
+<dy>1</dy>
+<colorR>147</colorR>
+<colorG>117</colorG>
+<colorB>208</colorB>
+<dA>
+<x>373</x>
+<y>199</y>
+</dA>
+<dB>
+<x>403</x>
+<y>181</y>
+</dB>
+<dC>
+<x>183</x>
+<y>172</y>
+</dC>
+</a1:figureSerialiaze>
+<a1:figureSerialiaze id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/FiguresGame/FiguresGame%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name href="#ref-10"/>
+<x>682</x>
+<y>193</y>
+<n>38</n>
+<m>39</m>
+<dx>2</dx>
+<dy>1</dy>
+<colorR>147</colorR>
+<colorG>117</colorG>
+<colorB>208</colorB>
+<dA>
+<x>373</x>
+<y>199</y>
+</dA>
+<dB>
+<x>403</x>
+<y>181</y>
+</dB>
+<dC>
+<x>183</x>
+<y>172</y>
+</dC>
+</a1:figureSerialiaze>
+<a1:figureSerialiaze id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/FiguresGame/FiguresGame%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name href="#ref-10"/>
+<x>682</x>
+<y>193</y>
+<n>38</n>
+<m>39</m>
+<dx>2</dx>
+<dy>1</dy>
+<colorR>147</colorR>
+<colorG>117</colorG>
+<colorB>208</colorB>
+<dA>
+<x>373</x>
+<y>199</y>
+</dA>
+<dB>
+<x>403</x>
+<y>181</y>
+</dB>
+<dC>
+<x>183</x>
+<y>172</y>
+</dC>
+</a1:figureSerialiaze>
+<a1:figureSerialiaze id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/FiguresGame/FiguresGame%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name href="#ref-10"/>
+<x>682</x>
+<y>193</y>
+<n>38</n>
+<m>39</m>
+<dx>2</dx>
+<dy>1</dy>
+<colorR>147</colorR>
+<colorG>117</colorG>
+<colorB>208</colorB>
+<dA>
+<x>373</x>
+<y>199</y>
+</dA>
+<dB>
+<x>403</x>
+<y>181</y>
+</dB>
+<dC>
+<x>183</x>
+<y>172</y>
+</dC>
+</a1:figureSerialiaze>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
